@@ -66,5 +66,3 @@ requests.get(url, headers=headers)
 ## Disclaimer
 
 This script is for learning and personal use only. Always respect websites’ terms of service and robots.txt rules when scraping.
-
-You’re all set! Paste this as your repository’s `README.md` and modify as needed.
