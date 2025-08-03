@@ -1,7 +1,5 @@
 # Web-Scraper
 
-Absolutely! Here’s a **copy-paste friendly** `README.md` for your GitHub repository. Just copy the text below and use it in your project:
-
 # 🖥️ Newegg Product Price Scraper
 
 A Python script to scrape product listings, prices, and links from [Newegg Canada](https://www.newegg.ca) based on your search term. This script retrieves all results across multiple pages and prints product details in your terminal.
